@@ -49,7 +49,10 @@ function App() {
           <section className="info">
             <h1>Stay updated!</h1>
             <ul>
-              <p>Join 60,000+ product managers receiving montly updates on: </p>
+              <li>
+
+                <p>Join 60,000+ product managers receiving montly updates on: </p>
+              </li>
 
               <li>
                 <img src="./assets/images/icon-list.svg" alt="icon-list" />
