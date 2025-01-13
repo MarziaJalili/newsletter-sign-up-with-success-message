@@ -140,7 +140,7 @@ button {
     border-radius: 8px;
     border: none;
     cursor: pointer;
-    /* transition: all ease-in .5s; */
+    transition: background .4s, box-shadow .4s;
 }
 
 button:hover {
