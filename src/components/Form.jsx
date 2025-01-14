@@ -22,7 +22,7 @@ function Form(props) {
                     placeholder="email@company.com" />
             </label>
 
-            <button onClick={props.handleSubmit}>Subscribe to monthly newsletter</button>
+            <button onClick={props.handleSubmit}><div>Subscribe to monthly newsletter</div></button>
         </form>
     )
 }

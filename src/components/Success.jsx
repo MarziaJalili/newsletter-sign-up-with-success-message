@@ -10,7 +10,7 @@ function Success(props) {
                 A confirmation email has been sent to <b>{email}</b>. Please open it and click the button inside to confirm your subscription.
             </p>
 
-            <button onClick={props.onClick}>Dissmiss Message</button>
+            <button onClick={props.onClick}><div>Dissmiss Message</div></button>
 
         </section>
     )
